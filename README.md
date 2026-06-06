@@ -1,4 +1,4 @@
-# Alpha Two DataStorm: Sales Volume Prediction Pipeline 🚀
+# Alpha Two DataStorm: Sales Volume Prediction Pipeline 
 
 This repository contains a comprehensive data engineering and machine learning pipeline designed to predict the **Volume_Liters_Sum** for **January 2026** across various distribution hubs. The project follows a robust **Bronze-Silver-Gold** architecture, ensuring data integrity and scalability from raw ingestion to model-ready features.
 
